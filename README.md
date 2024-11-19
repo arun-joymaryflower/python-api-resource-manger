@@ -1,0 +1,1 @@
+API VM Manager is a Python tool designed to interact with virtual machine resources using HTTP API requests. It allows users to manage VMs by creating, reading, updating, and deleting resources in a seamless way. This tool is perfect for anyone learning cloud engineering fundamentals or practicing API-based resource management.
