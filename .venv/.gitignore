@@ -1,0 +1,38 @@
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+
+# Test outputs
+*.coverage
+coverage/
+pytest_cache/
+
+# Large files or unnecessary outputs
+*.zip
+*.tar.gz
+*.sqlite3
+# created by virtualenv automatically
+
+# Exclude JSON Placeholder data if downloaded locally
+data/
+
+# Ignore sensitive credentials
+.env
+
